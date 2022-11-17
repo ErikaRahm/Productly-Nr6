@@ -1,0 +1,2454 @@
+._01-productly,
+._01-productly * {
+  box-sizing: border-box;
+}
+._01-productly {
+  background: #ffffff;
+  width: 1400px;
+  height: 3843px;
+  position: relative;
+  overflow: hidden;
+}
+._01-productly___09-footer {
+  width: 1109px;
+  height: 308px;
+  position: static;
+}
+._01-productly__line {
+  background: rgba(188, 208, 229, 0.5);
+  width: 1109px;
+  height: 1px;
+  position: absolute;
+  left: 160px;
+  top: 3452px;
+}
+._01-productly__quick-links {
+  width: 118px;
+  height: 205px;
+  position: absolute;
+  left: 484px;
+  top: 3555px;
+  overflow: hidden;
+}
+._01-productly__about-us-blog-contac {
+  color: #544837;
+  text-align: left;
+  font: 400 16px/35px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 37.5px);
+}
+._01-productly__quick-links2 {
+  color: #2f281e;
+  text-align: left;
+  font: 700 20px/30px "Gotham";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 102.5px);
+}
+._01-productly__legal-stuff {
+  width: 131px;
+  height: 205px;
+  position: absolute;
+  left: 731px;
+  top: 3555px;
+  overflow: hidden;
+}
+._01-productly__disclaimer-financing {
+  color: #544837;
+  text-align: left;
+  font: 400 16px/35px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 37.5px);
+}
+._01-productly__legal-stuff2 {
+  color: #2f281e;
+  text-align: left;
+  font: 700 20px/30px "Gotham";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 102.5px);
+}
+._01-productly___3 {
+  width: 325px;
+  height: 199px;
+  position: absolute;
+  left: 944px;
+  top: 3555px;
+  overflow: hidden;
+}
+._01-productly__button {
+  width: 131px;
+  height: 39px;
+  position: absolute;
+  left: 0px;
+  top: 160px;
+  overflow: hidden;
+}
+._01-productly__rectangle {
+  background: #ff9900;
+  border-radius: 4px;
+  width: 131px;
+  height: 39px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+._01-productly__sign-up-now {
+  color: #ffffff;
+  text-align: center;
+  font: 700 16px "Poppins";
+  position: absolute;
+  left: 15px;
+  top: calc(50% - 11.5px);
+}
+._01-productly__group-14 {
+  width: 325px;
+  height: 48px;
+  position: absolute;
+  left: 0px;
+  top: 91px;
+  overflow: hidden;
+}
+._01-productly__rectangle-5-copy {
+  background: #ffffff;
+  border-radius: 4px;
+  border: solid #bcd0e5;
+  border-width: 1px;
+  width: 325px;
+  height: 48px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 30px 40px 0px rgba(51, 128, 192, 0.18);
+}
+._01-productly__enter-your-phone-num {
+  color: #bcd0e5;
+  text-align: left;
+  font: 400 16px/28px "ProximaNova";
+  position: absolute;
+  left: 15px;
+  top: calc(50% - 14px);
+}
+._01-productly__knowing-you-re-alway {
+  color: #2f281e;
+  text-align: left;
+  font: 700 20px/30px "Gotham";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 99.5px);
+  width: 280px;
+  height: 57px;
+}
+._01-productly__logo {
+  width: 185px;
+  height: 32px;
+  position: static;
+}
+._01-productly__productly {
+  position: absolute;
+  left: 201px;
+  top: 3558px;
+  overflow: visible;
+}
+._01-productly__group-31 {
+  width: 30px;
+  height: 30px;
+  position: static;
+}
+._01-productly__rectangle2 {
+  background: #d8d8d8;
+  border-radius: 7px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 159px;
+  top: 3555px;
+}
+._01-productly__bitmap {
+  width: 31px;
+  height: 32px;
+  position: absolute;
+  left: 159px;
+  top: 3555px;
+}
+._01-productly___06-marketers {
+  width: 1110px;
+  height: 609px;
+  position: static;
+}
+._01-productly__image {
+  width: 542px;
+  height: 609px;
+  position: static;
+}
+._01-productly__path13 {
+  position: absolute;
+  left: 800.44px;
+  top: 2738.74px;
+  overflow: visible;
+}
+._01-productly__path14 {
+  position: absolute;
+  left: 763.53px;
+  top: 3173.36px;
+  overflow: visible;
+}
+._01-productly__path15 {
+  position: absolute;
+  left: 1191.57px;
+  top: 2870.42px;
+  overflow: visible;
+}
+._01-productly__shape {
+  position: absolute;
+  left: 764.15px;
+  top: 2810.52px;
+  overflow: visible;
+}
+._01-productly__path87 {
+  position: absolute;
+  left: 839.67px;
+  top: 2795.2px;
+  overflow: visible;
+}
+._01-productly__rectangle3 {
+  background: #4d8dff;
+  border-radius: 33.6px;
+  opacity: 0.30000001192092896;
+  width: 334.65px;
+  height: 261.25px;
+  position: absolute;
+  left: 1092.05px;
+  top: 2981.9px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+._01-productly__shape2 {
+  opacity: 0.30000001192092896;
+  position: absolute;
+  left: 715.15px;
+  top: 2697.15px;
+  overflow: visible;
+}
+._01-productly__group {
+  opacity: 0.30000001192092896;
+  width: 280px;
+  height: 50px;
+  position: static;
+}
+._01-productly__rectangle4 {
+  background: #4d8dff;
+  border-radius: 5.6px;
+  width: 55.9px;
+  height: 43.65px;
+  position: absolute;
+  left: 841.05px;
+  top: 2798.05px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+._01-productly__rectangle5 {
+  background: #4d8dff;
+  border-radius: 5.6px;
+  width: 55.9px;
+  height: 43.65px;
+  position: absolute;
+  left: 915.45px;
+  top: 2798.05px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+._01-productly__rectangle6 {
+  background: #4d8dff;
+  border-radius: 5.6px;
+  width: 55.9px;
+  height: 43.65px;
+  position: absolute;
+  left: 989.9px;
+  top: 2798.05px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+._01-productly__rectangle7 {
+  background: #4d8dff;
+  border-radius: 5.6px;
+  width: 55.9px;
+  height: 43.65px;
+  position: absolute;
+  left: 1064.35px;
+  top: 2798.05px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+._01-productly__rectangle8 {
+  background: #4d8dff;
+  border-radius: 5.6px;
+  width: 55.9px;
+  height: 43.65px;
+  position: absolute;
+  left: 841.05px;
+  top: 2873.1px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+._01-productly__rectangle9 {
+  background: #4d8dff;
+  border-radius: 5.6px;
+  width: 55.9px;
+  height: 43.65px;
+  position: absolute;
+  left: 915.45px;
+  top: 2873.1px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+._01-productly__rectangle10 {
+  background: #4d8dff;
+  border-radius: 5.6px;
+  width: 55.9px;
+  height: 43.65px;
+  position: absolute;
+  left: 989.9px;
+  top: 2873.1px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+._01-productly__rectangle11 {
+  background: #4d8dff;
+  border-radius: 5.6px;
+  width: 55.9px;
+  height: 43.65px;
+  position: absolute;
+  left: 1064.35px;
+  top: 2873.1px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+._01-productly__rectangle12 {
+  background: #4d8dff;
+  border-radius: 5.6px;
+  width: 55.9px;
+  height: 43.65px;
+  position: absolute;
+  left: 841.05px;
+  top: 2948.1px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+._01-productly__rectangle13 {
+  background: #4d8dff;
+  border-radius: 5.6px;
+  width: 55.9px;
+  height: 43.65px;
+  position: absolute;
+  left: 915.45px;
+  top: 2948.1px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+._01-productly__rectangle14 {
+  background: #4d8dff;
+  border-radius: 5.6px;
+  width: 55.9px;
+  height: 43.65px;
+  position: absolute;
+  left: 989.9px;
+  top: 2948.1px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+._01-productly__rectangle15 {
+  background: #4d8dff;
+  border-radius: 5.6px;
+  width: 55.9px;
+  height: 43.65px;
+  position: absolute;
+  left: 1064.35px;
+  top: 2948.1px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+._01-productly__rectangle16 {
+  background: #4d8dff;
+  border-radius: 5.6px;
+  width: 55.9px;
+  height: 43.65px;
+  position: absolute;
+  left: 997px;
+  top: 2790.95px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+._01-productly__rectangle17 {
+  background: #ff4e4a;
+  border-radius: 5.6px;
+  width: 55.9px;
+  height: 43.65px;
+  position: absolute;
+  left: 997px;
+  top: 2941px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+._01-productly__rectangle18 {
+  background: #ffc84d;
+  border-radius: 5.6px;
+  width: 55.9px;
+  height: 43.65px;
+  position: absolute;
+  left: 848.1px;
+  top: 2866px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+._01-productly__path90 {
+  position: absolute;
+  left: 1070.49px;
+  top: 2845.75px;
+  overflow: visible;
+}
+._01-productly__path91 {
+  position: absolute;
+  left: 1073.85px;
+  top: 2847.45px;
+  overflow: visible;
+}
+._01-productly__path92 {
+  position: absolute;
+  left: 1048.9px;
+  top: 2849.7px;
+  overflow: visible;
+}
+._01-productly__path93 {
+  position: absolute;
+  left: 1052.73px;
+  top: 2796.39px;
+  overflow: visible;
+}
+._01-productly__path94 {
+  position: absolute;
+  left: 1058.61px;
+  top: 2795.32px;
+  overflow: visible;
+}
+._01-productly__path95 {
+  position: absolute;
+  left: 1145.2px;
+  top: 2969.7px;
+  overflow: visible;
+}
+._01-productly__path96 {
+  position: absolute;
+  left: 1135.48px;
+  top: 2928.28px;
+  overflow: visible;
+}
+._01-productly__path97 {
+  position: absolute;
+  left: 1007.56px;
+  top: 3186.65px;
+  overflow: visible;
+}
+._01-productly__path98 {
+  position: absolute;
+  left: 1013.35px;
+  top: 2919.78px;
+  overflow: visible;
+}
+._01-productly__shape3 {
+  position: absolute;
+  left: 1109px;
+  top: 2926.7px;
+  overflow: visible;
+}
+._01-productly__path101 {
+  position: absolute;
+  left: 1053.72px;
+  top: 2847.39px;
+  overflow: visible;
+}
+._01-productly__path102 {
+  position: absolute;
+  left: 1053.75px;
+  top: 2833.66px;
+  overflow: visible;
+}
+._01-productly__path103 {
+  position: absolute;
+  left: 1033.3px;
+  top: 2965.72px;
+  overflow: visible;
+}
+._01-productly__path104 {
+  position: absolute;
+  left: 874.95px;
+  top: 2844.21px;
+  overflow: visible;
+}
+._01-productly__path105 {
+  position: absolute;
+  left: 984.25px;
+  top: 2922.85px;
+  overflow: visible;
+}
+._01-productly__path106 {
+  position: absolute;
+  left: 1069.71px;
+  top: 2842.47px;
+  overflow: visible;
+}
+._01-productly___32 {
+  width: 486px;
+  height: 90px;
+  position: absolute;
+  left: 147px;
+  top: 3177px;
+  overflow: hidden;
+}
+._01-productly__if-you-are-looking-f {
+  color: #544837;
+  text-align: left;
+  font: 500 16px/26px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: 38px;
+  width: 486px;
+}
+._01-productly__custom-design-design {
+  color: #2f281e;
+  text-align: left;
+  font: 700 16px/26px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 45px);
+}
+._01-productly___2 {
+  width: 486px;
+  height: 90px;
+  position: absolute;
+  left: 147px;
+  top: 3062px;
+  overflow: hidden;
+}
+._01-productly__alterationists {
+  color: #2f281e;
+  text-align: left;
+  font: 700 16px/26px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 45px);
+}
+._01-productly___1 {
+  width: 486px;
+  height: 90px;
+  position: absolute;
+  left: 147px;
+  top: 2947px;
+  overflow: hidden;
+}
+._01-productly__while-most-people-en {
+  color: #544837;
+  text-align: left;
+  font: 500 16px/26px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: 38px;
+  width: 486px;
+}
+._01-productly__accessory-makers {
+  color: #2f281e;
+  text-align: left;
+  font: 700 16px/26px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 45px);
+}
+._01-productly__tiitle {
+  width: 486px;
+  height: 181px;
+  position: absolute;
+  left: 147px;
+  top: 2736px;
+  overflow: hidden;
+}
+._01-productly__few-would-argue-that {
+  color: #544837;
+  text-align: left;
+  font: 500 16px/26px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: 103px;
+  width: 486px;
+}
+._01-productly__marketers {
+  color: #2f281e;
+  text-align: left;
+  font: 700 36px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 63.5px);
+}
+._01-productly__optimisation-for {
+  color: #544837;
+  text-align: left;
+  font: 500 16px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 90.5px);
+}
+._01-productly___05-product-managers {
+  width: 1121px;
+  height: 521px;
+  position: static;
+}
+._01-productly__text {
+  width: 486px;
+  height: 427px;
+  position: absolute;
+  left: 779px;
+  top: 2121px;
+  overflow: hidden;
+}
+._01-productly___33 {
+  width: 430px;
+  height: 52px;
+  position: absolute;
+  left: 0px;
+  top: 211px;
+  overflow: hidden;
+}
+._01-productly__never-worry-about-ov {
+  color: #544837;
+  text-align: left;
+  font: 500 16px/26px "Poppins";
+  position: absolute;
+  left: 65px;
+  top: calc(50% - 26px);
+  width: 365px;
+}
+._01-productly__group-13 {
+  width: 35px;
+  height: 35px;
+  position: static;
+}
+._01-productly__rectangle19 {
+  background: #ff9900;
+  border-radius: 13.85px;
+  border: solid #ffffff;
+  border-width: 2.92px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 0px;
+  top: 8px;
+}
+._01-productly__tick {
+  position: absolute;
+  left: 10px;
+  top: 20px;
+  overflow: visible;
+}
+._01-productly___22 {
+  width: 450px;
+  height: 52px;
+  position: static;
+}
+._01-productly__we-track-the-markets {
+  color: #544837;
+  text-align: left;
+  font: 500 16px/26px "Poppins";
+  position: absolute;
+  left: 65px;
+  top: 375px;
+  width: 385px;
+}
+._01-productly__group-13-copy {
+  width: 35px;
+  height: 35px;
+  position: static;
+}
+._01-productly__rectangle20 {
+  background: #ff9900;
+  border-radius: 13.85px;
+  border: solid #ffffff;
+  border-width: 2.92px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 0px;
+  top: 383px;
+}
+._01-productly__tick2 {
+  position: absolute;
+  left: 10px;
+  top: 395px;
+  overflow: visible;
+}
+._01-productly___12 {
+  width: 450px;
+  height: 52px;
+  position: static;
+}
+._01-productly__icon {
+  width: 35px;
+  height: 35px;
+  position: static;
+}
+._01-productly__rectangle21 {
+  background: #ff9900;
+  border-radius: 13.85px;
+  border: solid #ffffff;
+  border-width: 2.92px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 0px;
+  top: 301px;
+}
+._01-productly__tick3 {
+  position: absolute;
+  left: 10px;
+  top: 313px;
+  overflow: visible;
+}
+._01-productly__we-will-only-switch {
+  color: #544837;
+  text-align: left;
+  font: 500 16px/26px "Poppins";
+  position: absolute;
+  left: 65px;
+  top: 293px;
+  width: 385px;
+}
+._01-productly__the-myspace-page-def {
+  color: #544837;
+  text-align: left;
+  font: 500 16px/26px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: 103px;
+  width: 486px;
+}
+._01-productly__product-managers {
+  color: #2f281e;
+  text-align: left;
+  font: 700 36px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 186.5px);
+}
+._01-productly__easier-decision-maki {
+  color: #544837;
+  text-align: left;
+  font: 500 16px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 213.5px);
+}
+._01-productly__image2 {
+  width: 535px;
+  height: 521px;
+  position: static;
+}
+._01-productly__group-3 {
+  position: absolute;
+  left: 144px;
+  top: 2122.03px;
+  overflow: visible;
+}
+._01-productly__fill-4 {
+  position: absolute;
+  left: 514.71px;
+  top: 2498.27px;
+  overflow: visible;
+}
+._01-productly__fill-6 {
+  position: absolute;
+  left: 178.02px;
+  top: 2072px;
+  overflow: visible;
+}
+._01-productly__fill-8 {
+  position: absolute;
+  left: 455.72px;
+  top: 2199.2px;
+  overflow: visible;
+}
+._01-productly__fill-10 {
+  position: absolute;
+  left: 182.11px;
+  top: 2122.3px;
+  overflow: visible;
+}
+._01-productly__fill-12 {
+  position: absolute;
+  left: 377.16px;
+  top: 2303.59px;
+  overflow: visible;
+}
+._01-productly__fill-14 {
+  position: absolute;
+  left: 373.71px;
+  top: 2265.18px;
+  overflow: visible;
+}
+._01-productly__fill-16 {
+  position: absolute;
+  left: 251.51px;
+  top: 2516.15px;
+  overflow: visible;
+}
+._01-productly__fill-18 {
+  position: absolute;
+  left: 252px;
+  top: 2249.31px;
+  overflow: visible;
+}
+._01-productly__clip-21 {
+  position: absolute;
+  left: 144px;
+  top: 2072px;
+  overflow: visible;
+}
+._01-productly__fill-20 {
+  position: absolute;
+  left: 336.46px;
+  top: 2314.45px;
+  overflow: visible;
+}
+._01-productly__fill-22 {
+  position: absolute;
+  left: 353.6px;
+  top: 2135.68px;
+  overflow: visible;
+}
+._01-productly__fill-23 {
+  position: absolute;
+  left: 316.9px;
+  top: 2175.3px;
+  overflow: visible;
+}
+._01-productly__fill-24 {
+  position: absolute;
+  left: 321.46px;
+  top: 2176.96px;
+  overflow: visible;
+}
+._01-productly__fill-25 {
+  position: absolute;
+  left: 316.44px;
+  top: 2125.91px;
+  overflow: visible;
+}
+._01-productly__fill-26 {
+  position: absolute;
+  left: 306.5px;
+  top: 2122.28px;
+  overflow: visible;
+}
+._01-productly__fill-27 {
+  position: absolute;
+  left: 217.53px;
+  top: 2295.86px;
+  overflow: visible;
+}
+._01-productly__fill-28 {
+  position: absolute;
+  left: 229.26px;
+  top: 2257.24px;
+  overflow: visible;
+}
+._01-productly__fill-29 {
+  position: absolute;
+  left: 356.43px;
+  top: 2168.98px;
+  overflow: visible;
+}
+._01-productly__fill-30 {
+  position: absolute;
+  left: 382.4px;
+  top: 2169.67px;
+  overflow: visible;
+}
+._01-productly__fill-31 {
+  position: absolute;
+  left: 348.23px;
+  top: 2155.88px;
+  overflow: visible;
+}
+._01-productly__fill-32 {
+  position: absolute;
+  left: 380.64px;
+  top: 2157.77px;
+  overflow: visible;
+}
+._01-productly__fill-33 {
+  position: absolute;
+  left: 347.66px;
+  top: 2191.87px;
+  overflow: visible;
+}
+._01-productly__fill-34 {
+  position: absolute;
+  left: 372.14px;
+  top: 2169.67px;
+  overflow: visible;
+}
+._01-productly__fill-35 {
+  position: absolute;
+  left: 305.45px;
+  top: 2169.94px;
+  overflow: visible;
+}
+._01-productly__fill-36 {
+  position: absolute;
+  left: 154.35px;
+  top: 2464.88px;
+  overflow: visible;
+}
+._01-productly__fill-37 {
+  position: absolute;
+  left: 150.8px;
+  top: 2464.88px;
+  overflow: visible;
+}
+._01-productly__fill-38 {
+  position: absolute;
+  left: 459.49px;
+  top: 2344.07px;
+  overflow: visible;
+}
+._01-productly__fill-39 {
+  position: absolute;
+  left: 463.12px;
+  top: 2344.07px;
+  overflow: visible;
+}
+._01-productly__fill-40 {
+  position: absolute;
+  left: 531.61px;
+  top: 2378.35px;
+  overflow: visible;
+}
+._01-productly__fill-41 {
+  position: absolute;
+  left: 442.02px;
+  top: 2456.46px;
+  overflow: visible;
+}
+._01-productly__fill-42 {
+  position: absolute;
+  left: 396.92px;
+  top: 2456.46px;
+  overflow: visible;
+}
+._01-productly__fill-43 {
+  position: absolute;
+  left: 557.93px;
+  top: 2180.23px;
+  overflow: visible;
+}
+._01-productly__fill-44 {
+  position: absolute;
+  left: 488.72px;
+  top: 2180.23px;
+  overflow: visible;
+}
+._01-productly__fill-45 {
+  position: absolute;
+  left: 479.19px;
+  top: 2272.65px;
+  overflow: visible;
+}
+._01-productly__fill-46 {
+  position: absolute;
+  left: 499.07px;
+  top: 2192px;
+  overflow: visible;
+}
+._01-productly__fill-47 {
+  position: absolute;
+  left: 499.07px;
+  top: 2201.47px;
+  overflow: visible;
+}
+._01-productly__fill-48 {
+  position: absolute;
+  left: 499.07px;
+  top: 2210.94px;
+  overflow: visible;
+}
+._01-productly__fill-49 {
+  position: absolute;
+  left: 499.07px;
+  top: 2220.41px;
+  overflow: visible;
+}
+._01-productly__fill-50 {
+  position: absolute;
+  left: 499.07px;
+  top: 2229.88px;
+  overflow: visible;
+}
+._01-productly__fill-51 {
+  position: absolute;
+  left: 499.07px;
+  top: 2239.35px;
+  overflow: visible;
+}
+._01-productly__fill-52 {
+  position: absolute;
+  left: 499.07px;
+  top: 2248.82px;
+  overflow: visible;
+}
+._01-productly__fill-53 {
+  position: absolute;
+  left: 499.07px;
+  top: 2258.29px;
+  overflow: visible;
+}
+._01-productly__fill-54 {
+  position: absolute;
+  left: 606.25px;
+  top: 2171.96px;
+  overflow: visible;
+}
+._01-productly__fill-55 {
+  position: absolute;
+  left: 602.19px;
+  top: 2205.9px;
+  overflow: visible;
+}
+._01-productly__fill-56 {
+  position: absolute;
+  left: 602.05px;
+  top: 2185.64px;
+  overflow: visible;
+}
+._01-productly__fill-57 {
+  position: absolute;
+  left: 438.57px;
+  top: 2114.55px;
+  overflow: visible;
+}
+._01-productly__fill-58 {
+  position: absolute;
+  left: 430.17px;
+  top: 2122.96px;
+  overflow: visible;
+}
+._01-productly___04-effortless-validation {
+  width: 1110px;
+  height: 574px;
+  position: static;
+}
+._01-productly__image3 {
+  width: 520px;
+  height: 574px;
+  position: static;
+}
+._01-productly__group-32 {
+  position: absolute;
+  left: 735px;
+  top: 1458.31px;
+  overflow: visible;
+}
+._01-productly__fill-410 {
+  position: absolute;
+  left: 1145.18px;
+  top: 1503.81px;
+  overflow: visible;
+}
+._01-productly__fill-62 {
+  position: absolute;
+  left: 741.32px;
+  top: 1462.22px;
+  overflow: visible;
+}
+._01-productly__group-10 {
+  position: absolute;
+  left: 780px;
+  top: 1475.31px;
+  overflow: visible;
+}
+._01-productly__fill-11 {
+  position: absolute;
+  left: 818.4px;
+  top: 1638.9px;
+  overflow: visible;
+}
+._01-productly__fill-132 {
+  position: absolute;
+  left: 943.87px;
+  top: 1617.61px;
+  overflow: visible;
+}
+._01-productly__fill-15 {
+  position: absolute;
+  left: 956.6px;
+  top: 1873.03px;
+  overflow: visible;
+}
+._01-productly__fill-17 {
+  position: absolute;
+  left: 961.38px;
+  top: 1606.17px;
+  overflow: visible;
+}
+._01-productly__fill-19 {
+  position: absolute;
+  left: 1009.59px;
+  top: 1492.54px;
+  overflow: visible;
+}
+._01-productly__fill-21 {
+  position: absolute;
+  left: 1018.58px;
+  top: 1532.17px;
+  overflow: visible;
+}
+._01-productly__fill-232 {
+  position: absolute;
+  left: 1021.88px;
+  top: 1533.83px;
+  overflow: visible;
+}
+._01-productly__fill-252 {
+  position: absolute;
+  left: 1000.81px;
+  top: 1482.78px;
+  overflow: visible;
+}
+._01-productly__fill-272 {
+  position: absolute;
+  left: 1006.94px;
+  top: 1479.15px;
+  overflow: visible;
+}
+._01-productly__fill-292 {
+  position: absolute;
+  left: 1094.76px;
+  top: 1652.73px;
+  overflow: visible;
+}
+._01-productly__fill-312 {
+  position: absolute;
+  left: 1083.03px;
+  top: 1614.11px;
+  overflow: visible;
+}
+._01-productly__fill-332 {
+  position: absolute;
+  left: 1034.58px;
+  top: 1525.86px;
+  overflow: visible;
+}
+._01-productly__fill-352 {
+  position: absolute;
+  left: 1008.61px;
+  top: 1526.55px;
+  overflow: visible;
+}
+._01-productly__fill-372 {
+  position: absolute;
+  left: 1035.63px;
+  top: 1512.75px;
+  overflow: visible;
+}
+._01-productly__fill-392 {
+  position: absolute;
+  left: 1004.11px;
+  top: 1514.65px;
+  overflow: visible;
+}
+._01-productly__fill-412 {
+  position: absolute;
+  left: 1028.21px;
+  top: 1548.74px;
+  overflow: visible;
+}
+._01-productly__fill-432 {
+  position: absolute;
+  left: 1011.74px;
+  top: 1526.54px;
+  overflow: visible;
+}
+._01-productly__fill-452 {
+  position: absolute;
+  left: 817.14px;
+  top: 1615.83px;
+  overflow: visible;
+}
+._01-productly__fill-472 {
+  position: absolute;
+  left: 1065.13px;
+  top: 1526.8px;
+  overflow: visible;
+}
+._01-productly__fill-492 {
+  position: absolute;
+  left: 771.15px;
+  top: 1397px;
+  overflow: visible;
+}
+._01-productly__clip-52 {
+  position: absolute;
+  left: 735px;
+  top: 1397px;
+  overflow: visible;
+}
+._01-productly__fill-512 {
+  position: absolute;
+  left: 782.71px;
+  top: 1406.74px;
+  overflow: visible;
+}
+._01-productly__fill-532 {
+  position: absolute;
+  left: 782.71px;
+  top: 1418.58px;
+  overflow: visible;
+}
+._01-productly__fill-542 {
+  position: absolute;
+  left: 782.71px;
+  top: 1430.4px;
+  overflow: visible;
+}
+._01-productly__fill-552 {
+  position: absolute;
+  left: 771.15px;
+  top: 1537.19px;
+  overflow: visible;
+}
+._01-productly__fill-562 {
+  position: absolute;
+  left: 782.71px;
+  top: 1546.93px;
+  overflow: visible;
+}
+._01-productly__fill-572 {
+  position: absolute;
+  left: 840.5px;
+  top: 1546.93px;
+  overflow: visible;
+}
+._01-productly__fill-582 {
+  position: absolute;
+  left: 782.71px;
+  top: 1558.76px;
+  overflow: visible;
+}
+._01-productly__fill-59 {
+  position: absolute;
+  left: 782.71px;
+  top: 1570.6px;
+  overflow: visible;
+}
+._01-productly__fill-60 {
+  position: absolute;
+  left: 831.01px;
+  top: 1467.06px;
+  overflow: visible;
+}
+._01-productly__fill-61 {
+  position: absolute;
+  left: 899.94px;
+  top: 1476.8px;
+  overflow: visible;
+}
+._01-productly__fill-622 {
+  position: absolute;
+  left: 848.43px;
+  top: 1488.64px;
+  overflow: visible;
+}
+._01-productly__fill-63 {
+  position: absolute;
+  left: 896.97px;
+  top: 1500.46px;
+  overflow: visible;
+}
+._01-productly__fill-64 {
+  position: absolute;
+  left: 867.57px;
+  top: 1500.46px;
+  overflow: visible;
+}
+._01-productly__fill-65 {
+  position: absolute;
+  left: 991.27px;
+  top: 1671.32px;
+  overflow: visible;
+}
+._01-productly__text2 {
+  width: 486px;
+  height: 531px;
+  position: absolute;
+  left: 145px;
+  top: 1423px;
+  overflow: hidden;
+}
+._01-productly___34 {
+  width: 486px;
+  height: 90px;
+  position: absolute;
+  left: 0px;
+  top: 211px;
+  overflow: hidden;
+}
+._01-productly___23 {
+  width: 486px;
+  height: 90px;
+  position: absolute;
+  left: 0px;
+  top: 326px;
+  overflow: hidden;
+}
+._01-productly___13 {
+  width: 486px;
+  height: 90px;
+  position: absolute;
+  left: 0px;
+  top: 441px;
+  overflow: hidden;
+}
+._01-productly__design-professionals {
+  color: #2f281e;
+  text-align: left;
+  font: 700 36px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 238.5px);
+}
+._01-productly__effortless-validatio {
+  color: #544837;
+  text-align: left;
+  font: 500 16px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 265.5px);
+}
+._01-productly___03-feature {
+  width: 2211px;
+  height: 543px;
+  position: absolute;
+  left: -406px;
+  top: 734px;
+  overflow: hidden;
+}
+._01-productly__button2 {
+  width: 175px;
+  height: 53px;
+  position: absolute;
+  left: 1027px;
+  top: 400px;
+  overflow: hidden;
+}
+._01-productly__rectangle22 {
+  background: #ff9900;
+  border-radius: 4px;
+  width: 175px;
+  height: 53px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+._01-productly__sign-up-now2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Poppins";
+  position: absolute;
+  left: 34px;
+  top: calc(50% - 11.5px);
+}
+._01-productly__card {
+  width: 1095px;
+  height: 204px;
+  position: static;
+}
+._01-productly___4 {
+  width: 240px;
+  height: 178px;
+  position: static;
+}
+._01-productly__icon2 {
+  width: 51px;
+  height: 50px;
+  position: absolute;
+  left: 567px;
+  top: 162px;
+  overflow: hidden;
+}
+._01-productly__shadow {
+  background: #7752be;
+  border-radius: 19px;
+  opacity: 0.8480049967765808;
+  width: 50px;
+  height: 25px;
+  position: absolute;
+  left: 0.5px;
+  top: 25px;
+  filter: blur(13.59px);
+}
+._01-productly__icon-bd {
+  background: #7752be;
+  border-radius: 19px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+._01-productly__- {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "FontAwesome";
+  position: absolute;
+  left: 19px;
+  top: calc(50% - 8px);
+}
+._01-productly__text3 {
+  width: 240px;
+  height: 98px;
+  position: absolute;
+  left: 567px;
+  top: 242px;
+  overflow: hidden;
+}
+._01-productly__while-most-people-en2 {
+  color: #544837;
+  text-align: left;
+  font: 500 16px/26px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: 46px;
+  width: 240px;
+}
+._01-productly__first-click-tests {
+  color: #2f281e;
+  text-align: left;
+  font: 600 22px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 49px);
+}
+._01-productly___35 {
+  width: 240px;
+  height: 178px;
+  position: static;
+}
+._01-productly__icon3 {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 853px;
+  top: 162px;
+  overflow: hidden;
+}
+._01-productly__shadow2 {
+  background: #fab005;
+  border-radius: 19px;
+  opacity: 0.8480049967765808;
+  width: 50px;
+  height: 25px;
+  position: absolute;
+  left: 0px;
+  top: 25px;
+  filter: blur(13.59px);
+}
+._01-productly__icon-bd2 {
+  background: #fab005;
+  border-radius: 19px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+._01-productly__-2 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "FontAwesome";
+  position: absolute;
+  left: 16px;
+  top: calc(50% - 8px);
+}
+._01-productly__text4 {
+  width: 240px;
+  height: 98px;
+  position: absolute;
+  left: 853px;
+  top: 242px;
+  overflow: hidden;
+}
+._01-productly__sports-betting--lott {
+  color: #544837;
+  text-align: left;
+  font: 500 16px/26px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: 46px;
+  width: 240px;
+}
+._01-productly__design-surveys {
+  color: #2f281e;
+  text-align: left;
+  font: 600 22px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 49px);
+}
+._01-productly___24 {
+  width: 240px;
+  height: 178px;
+  position: static;
+}
+._01-productly__icon4 {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 1138px;
+  top: 162px;
+  overflow: hidden;
+}
+._01-productly__shadow3 {
+  background: #f03e3d;
+  border-radius: 19px;
+  opacity: 0.8480049967765808;
+  width: 50px;
+  height: 25px;
+  position: absolute;
+  left: 0px;
+  top: 25px;
+  filter: blur(13.59px);
+}
+._01-productly__icon-bd3 {
+  background: #f03e3d;
+  border-radius: 19px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+._01-productly__-3 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "FontAwesome";
+  position: absolute;
+  left: 17px;
+  top: calc(50% - 8px);
+}
+._01-productly__text5 {
+  width: 240px;
+  height: 98px;
+  position: absolute;
+  left: 1138px;
+  top: 242px;
+  overflow: hidden;
+}
+._01-productly__the-myspace-page-def2 {
+  color: #544837;
+  text-align: left;
+  font: 500 16px/26px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: 46px;
+  width: 240px;
+}
+._01-productly__preference-tests {
+  color: #2f281e;
+  text-align: left;
+  font: 600 22px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 49px);
+}
+._01-productly___14 {
+  width: 240px;
+  height: 204px;
+  position: static;
+}
+._01-productly__icon5 {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 1422px;
+  top: 162px;
+  overflow: hidden;
+}
+._01-productly__shadow4 {
+  background: #4dadf7;
+  border-radius: 19px;
+  opacity: 0.8480049967765808;
+  width: 50px;
+  height: 25px;
+  position: absolute;
+  left: 0px;
+  top: 25px;
+  filter: blur(13.59px);
+}
+._01-productly__icon-bd4 {
+  background: #4dadf7;
+  border-radius: 19px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+._01-productly__-4 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "FontAwesome";
+  position: absolute;
+  left: 18px;
+  top: calc(50% - 8px);
+}
+._01-productly__text6 {
+  width: 240px;
+  height: 124px;
+  position: absolute;
+  left: 1422px;
+  top: 242px;
+  overflow: hidden;
+}
+._01-productly__personal-choices-and {
+  color: #544837;
+  text-align: left;
+  font: 500 16px/26px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: 46px;
+  width: 240px;
+}
+._01-productly__five-second-tests {
+  color: #2f281e;
+  text-align: left;
+  font: 600 22px "Poppins";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 62px);
+}
+._01-productly__we-design-tools-to-u {
+  color: #2f281e;
+  text-align: center;
+  font: 700 36px "Poppins";
+  position: absolute;
+  left: 845px;
+  top: calc(50% - 271.5px);
+  width: 539px;
+}
+._01-productly___02-header {
+  width: 1126px;
+  height: 496px;
+  position: static;
+}
+._01-productly__image4 {
+  width: 605px;
+  height: 496px;
+  position: static;
+}
+._01-productly__oval {
+  position: absolute;
+  left: 1186px;
+  top: 157px;
+  transform: translate(-467px, 0px);
+  overflow: visible;
+}
+._01-productly__fill-110 {
+  position: absolute;
+  left: 1147.08px;
+  top: 471.69px;
+  overflow: visible;
+}
+._01-productly__fill-3 {
+  position: absolute;
+  left: 1154.29px;
+  top: 420.45px;
+  overflow: visible;
+}
+._01-productly__fill-5 {
+  position: absolute;
+  left: 904.62px;
+  top: 480.59px;
+  overflow: visible;
+}
+._01-productly__fill-7 {
+  position: absolute;
+  left: 915.9px;
+  top: 496.96px;
+  overflow: visible;
+}
+._01-productly__fill-9 {
+  position: absolute;
+  left: 856.63px;
+  top: 344.1px;
+  overflow: visible;
+}
+._01-productly__fill-112 {
+  position: absolute;
+  left: 877.82px;
+  top: 352.87px;
+  overflow: visible;
+}
+._01-productly__fill-133 {
+  position: absolute;
+  left: 756.61px;
+  top: 502.75px;
+  overflow: visible;
+}
+._01-productly__fill-152 {
+  position: absolute;
+  left: 758.51px;
+  top: 538.16px;
+  overflow: visible;
+}
+._01-productly__fill-172 {
+  position: absolute;
+  left: 758.51px;
+  top: 505.42px;
+  overflow: visible;
+}
+._01-productly__fill-192 {
+  position: absolute;
+  left: 760.7px;
+  top: 506.53px;
+  overflow: visible;
+}
+._01-productly__fill-212 {
+  position: absolute;
+  left: 1193.5px;
+  top: 280.37px;
+  overflow: visible;
+}
+._01-productly__fill-233 {
+  position: absolute;
+  left: 1230.91px;
+  top: 310.1px;
+  overflow: visible;
+}
+._01-productly__fill-253 {
+  position: absolute;
+  left: 1204.89px;
+  top: 282.61px;
+  overflow: visible;
+}
+._01-productly__fill-273 {
+  position: absolute;
+  left: 1188.6px;
+  top: 283.54px;
+  overflow: visible;
+}
+._01-productly__fill-293 {
+  position: absolute;
+  left: 747.6px;
+  top: 230.77px;
+  overflow: visible;
+}
+._01-productly__fill-313 {
+  position: absolute;
+  left: 695.24px;
+  top: 404.28px;
+  overflow: visible;
+}
+._01-productly__fill-333 {
+  position: absolute;
+  left: 720.76px;
+  top: 420.63px;
+  overflow: visible;
+}
+._01-productly__fill-353 {
+  position: absolute;
+  left: 789.73px;
+  top: 325.53px;
+  overflow: visible;
+}
+._01-productly__fill-373 {
+  position: absolute;
+  left: 782.84px;
+  top: 347px;
+  overflow: visible;
+}
+._01-productly__fill-393 {
+  position: absolute;
+  left: 722.31px;
+  top: 347px;
+  overflow: visible;
+}
+._01-productly__fill-413 {
+  position: absolute;
+  left: 800.64px;
+  top: 157.01px;
+  overflow: visible;
+}
+._01-productly__fill-433 {
+  position: absolute;
+  left: 666px;
+  top: 271.13px;
+  overflow: visible;
+}
+._01-productly__fill-453 {
+  position: absolute;
+  left: 763.66px;
+  top: 251.08px;
+  overflow: visible;
+}
+._01-productly__fill-473 {
+  position: absolute;
+  left: 796.02px;
+  top: 240.93px;
+  overflow: visible;
+}
+._01-productly__fill-493 {
+  position: absolute;
+  left: 743.21px;
+  top: 271.89px;
+  overflow: visible;
+}
+._01-productly__fill-513 {
+  position: absolute;
+  left: 750.85px;
+  top: 215.81px;
+  overflow: visible;
+}
+._01-productly__fill-533 {
+  position: absolute;
+  left: 772.9px;
+  top: 255.15px;
+  overflow: visible;
+}
+._01-productly__fill-553 {
+  position: absolute;
+  left: 752.88px;
+  top: 243.82px;
+  overflow: visible;
+}
+._01-productly__fill-573 {
+  position: absolute;
+  left: 743.9px;
+  top: 205.15px;
+  overflow: visible;
+}
+._01-productly__fill-592 {
+  position: absolute;
+  left: 770.71px;
+  top: 236.06px;
+  overflow: visible;
+}
+._01-productly__fill-612 {
+  position: absolute;
+  left: 762.85px;
+  top: 237px;
+  overflow: visible;
+}
+._01-productly__fill-632 {
+  position: absolute;
+  left: 774.9px;
+  top: 228.77px;
+  overflow: visible;
+}
+._01-productly__fill-652 {
+  position: absolute;
+  left: 767.74px;
+  top: 228.87px;
+  overflow: visible;
+}
+._01-productly__fill-67 {
+  position: absolute;
+  left: 771.15px;
+  top: 250.1px;
+  overflow: visible;
+}
+._01-productly__fill-69 {
+  position: absolute;
+  left: 770.23px;
+  top: 227.84px;
+  overflow: visible;
+}
+._01-productly__fill-71 {
+  position: absolute;
+  left: 763.06px;
+  top: 232.15px;
+  overflow: visible;
+}
+._01-productly__fill-73 {
+  position: absolute;
+  left: 758.77px;
+  top: 228.77px;
+  overflow: visible;
+}
+._01-productly__fill-75 {
+  position: absolute;
+  left: 767.72px;
+  top: 223.51px;
+  overflow: visible;
+}
+._01-productly__fill-77 {
+  position: absolute;
+  left: 1165.57px;
+  top: 239.26px;
+  overflow: visible;
+}
+._01-productly__fill-79 {
+  position: absolute;
+  left: 1120.95px;
+  top: 226.59px;
+  overflow: visible;
+}
+._01-productly__group-83 {
+  position: absolute;
+  left: 1099.31px;
+  top: 162.26px;
+  overflow: visible;
+}
+._01-productly__fill-84 {
+  position: absolute;
+  left: 1113.52px;
+  top: 431.48px;
+  overflow: visible;
+}
+._01-productly__fill-86 {
+  position: absolute;
+  left: 1208.2px;
+  top: 185.98px;
+  overflow: visible;
+}
+._01-productly__fill-88 {
+  position: absolute;
+  left: 1060.06px;
+  top: 128px;
+  overflow: visible;
+}
+._01-productly__fill-90 {
+  position: absolute;
+  left: 1107.33px;
+  top: 200.05px;
+  overflow: visible;
+}
+._01-productly__fill-92 {
+  position: absolute;
+  left: 1063.7px;
+  top: 295.53px;
+  overflow: visible;
+}
+._01-productly__fill-94 {
+  position: absolute;
+  left: 1166.06px;
+  top: 363.37px;
+  overflow: visible;
+}
+._01-productly__fill-96 {
+  position: absolute;
+  left: 1092.69px;
+  top: 299.89px;
+  overflow: visible;
+}
+._01-productly__fill-98 {
+  position: absolute;
+  left: 1101.57px;
+  top: 234.38px;
+  overflow: visible;
+}
+._01-productly__fill-100 {
+  position: absolute;
+  left: 1068.47px;
+  top: 149.87px;
+  overflow: visible;
+}
+._01-productly__fill-102 {
+  position: absolute;
+  left: 1124.16px;
+  top: 201.43px;
+  overflow: visible;
+}
+._01-productly__fill-104 {
+  position: absolute;
+  left: 1088.61px;
+  top: 233.6px;
+  overflow: visible;
+}
+._01-productly__fill-106 {
+  position: absolute;
+  left: 1082.75px;
+  top: 222.62px;
+  overflow: visible;
+}
+._01-productly__fill-108 {
+  position: absolute;
+  left: 1118.77px;
+  top: 235.21px;
+  overflow: visible;
+}
+._01-productly__fill-1102 {
+  position: absolute;
+  left: 1062.81px;
+  top: 293.55px;
+  overflow: visible;
+}
+._01-productly__fill-1122 {
+  position: absolute;
+  left: 1130.45px;
+  top: 216.41px;
+  overflow: visible;
+}
+._01-productly__fill-114 {
+  position: absolute;
+  left: 1104.22px;
+  top: 174.76px;
+  overflow: visible;
+}
+._01-productly__fill-116 {
+  position: absolute;
+  left: 1113.73px;
+  top: 209.1px;
+  overflow: visible;
+}
+._01-productly__fill-118 {
+  position: absolute;
+  left: 1111.31px;
+  top: 216.68px;
+  overflow: visible;
+}
+._01-productly__fill-120 {
+  position: absolute;
+  left: 1121.81px;
+  top: 216.07px;
+  overflow: visible;
+}
+._01-productly__fill-122 {
+  position: absolute;
+  left: 1110.58px;
+  top: 210.36px;
+  overflow: visible;
+}
+._01-productly__fill-124 {
+  position: absolute;
+  left: 1110.72px;
+  top: 227.62px;
+  overflow: visible;
+}
+._01-productly__fill-126 {
+  position: absolute;
+  left: 1123.01px;
+  top: 211.52px;
+  overflow: visible;
+}
+._01-productly__fill-128 {
+  position: absolute;
+  left: 1116.54px;
+  top: 209.19px;
+  overflow: visible;
+}
+._01-productly__fill-130 {
+  position: absolute;
+  left: 1124.29px;
+  top: 208.07px;
+  overflow: visible;
+}
+._01-productly__fill-1322 {
+  position: absolute;
+  left: 1115.73px;
+  top: 205.65px;
+  overflow: visible;
+}
+._01-productly__fill-134 {
+  position: absolute;
+  left: 1119.29px;
+  top: 434.67px;
+  overflow: visible;
+}
+._01-productly__fill-136 {
+  position: absolute;
+  left: 1171.61px;
+  top: 363.01px;
+  overflow: visible;
+}
+._01-productly__fill-138 {
+  position: absolute;
+  left: 1166.43px;
+  top: 370.84px;
+  overflow: visible;
+}
+._01-productly__fill-140 {
+  position: absolute;
+  left: 1110.61px;
+  top: 428.15px;
+  overflow: visible;
+}
+._01-productly__fill-142 {
+  position: absolute;
+  left: 876.67px;
+  top: 249.31px;
+  overflow: visible;
+}
+._01-productly__fill-144 {
+  position: absolute;
+  left: 865.01px;
+  top: 464.74px;
+  overflow: visible;
+}
+._01-productly__fill-146 {
+  position: absolute;
+  left: 996.38px;
+  top: 257.37px;
+  overflow: visible;
+}
+._01-productly__fill-148 {
+  position: absolute;
+  left: 943.04px;
+  top: 336px;
+  overflow: visible;
+}
+._01-productly__fill-150 {
+  position: absolute;
+  left: 956px;
+  top: 372.16px;
+  overflow: visible;
+}
+._01-productly__fill-1522 {
+  position: absolute;
+  left: 973.24px;
+  top: 280.56px;
+  overflow: visible;
+}
+._01-productly__fill-154 {
+  position: absolute;
+  left: 883.08px;
+  top: 378.8px;
+  overflow: visible;
+}
+._01-productly__fill-156 {
+  position: absolute;
+  left: 970.38px;
+  top: 357.71px;
+  overflow: visible;
+}
+._01-productly__fill-158 {
+  position: absolute;
+  left: 923.61px;
+  top: 376.93px;
+  overflow: visible;
+}
+._01-productly__fill-160 {
+  position: absolute;
+  left: 953.11px;
+  top: 589.66px;
+  overflow: visible;
+}
+._01-productly__fill-162 {
+  position: absolute;
+  left: 961.09px;
+  top: 445.5px;
+  overflow: visible;
+}
+._01-productly__fill-164 {
+  position: absolute;
+  left: 862.67px;
+  top: 570.04px;
+  overflow: visible;
+}
+._01-productly__fill-166 {
+  position: absolute;
+  left: 884.08px;
+  top: 452.7px;
+  overflow: visible;
+}
+._01-productly__fill-168 {
+  position: absolute;
+  left: 934.08px;
+  top: 436.6px;
+  overflow: visible;
+}
+._01-productly__fill-170 {
+  position: absolute;
+  left: 939.04px;
+  top: 369.35px;
+  overflow: visible;
+}
+._01-productly__fill-1722 {
+  position: absolute;
+  left: 986.72px;
+  top: 217.81px;
+  overflow: visible;
+}
+._01-productly__fill-174 {
+  position: absolute;
+  left: 1026.5px;
+  top: 430.73px;
+  overflow: visible;
+}
+._01-productly__fill-176 {
+  position: absolute;
+  left: 888.37px;
+  top: 295.89px;
+  overflow: visible;
+}
+._01-productly__fill-178 {
+  position: absolute;
+  left: 945px;
+  top: 264.38px;
+  overflow: visible;
+}
+._01-productly__fill-180 {
+  position: absolute;
+  left: 953.72px;
+  top: 346.71px;
+  overflow: visible;
+}
+._01-productly__fill-182 {
+  position: absolute;
+  left: 955.84px;
+  top: 354.32px;
+  overflow: visible;
+}
+._01-productly__fill-184 {
+  position: absolute;
+  left: 951.22px;
+  top: 353.18px;
+  overflow: visible;
+}
+._01-productly__fill-186 {
+  position: absolute;
+  left: 961.6px;
+  top: 347.67px;
+  overflow: visible;
+}
+._01-productly__fill-188 {
+  position: absolute;
+  left: 956.1px;
+  top: 365.98px;
+  overflow: visible;
+}
+._01-productly__fill-190 {
+  position: absolute;
+  left: 957.83px;
+  top: 346.2px;
+  overflow: visible;
+}
+._01-productly__fill-1922 {
+  position: absolute;
+  left: 951.87px;
+  top: 349.63px;
+  overflow: visible;
+}
+._01-productly__fill-194 {
+  position: absolute;
+  left: 955.84px;
+  top: 342.58px;
+  overflow: visible;
+}
+._01-productly__fill-196 {
+  position: absolute;
+  left: 948.81px;
+  top: 346.47px;
+  overflow: visible;
+}
+._01-productly__fill-198 {
+  position: absolute;
+  left: 941.15px;
+  top: 354.76px;
+  overflow: visible;
+}
+._01-productly__fill-200 {
+  position: absolute;
+  left: 862.33px;
+  top: 573.7px;
+  overflow: visible;
+}
+._01-productly__fill-202 {
+  position: absolute;
+  left: 952.83px;
+  top: 595.97px;
+  overflow: visible;
+}
+._01-productly__left-side {
+  width: 518px;
+  height: 331px;
+  position: static;
+}
+._01-productly__button3 {
+  width: 366px;
+  height: 53px;
+  position: static;
+}
+._01-productly__button4 {
+  width: 161px;
+  height: 23px;
+  position: absolute;
+  left: 350px;
+  top: 504px;
+  overflow: hidden;
+}
+._01-productly__watch-the-video {
+  color: #ff9900;
+  text-align: left;
+  font: 600 16px "Poppins";
+  text-decoration: underline;
+  position: absolute;
+  left: 26px;
+  top: calc(50% - 11.5px);
+}
+._01-productly__triangle-copy-6 {
+  border-radius: 1.12px;
+  position: absolute;
+  left: 17.5px;
+  top: 1.5px;
+  transform: translate(-17px, 0.84px);
+  overflow: visible;
+}
+._01-productly__button5 {
+  width: 175px;
+  height: 53px;
+  position: absolute;
+  left: 145px;
+  top: 489px;
+  overflow: hidden;
+}
+._01-productly__get-started {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Poppins";
+  position: absolute;
+  left: 41px;
+  top: calc(50% - 11.5px);
+}
+._01-productly__text7 {
+  width: 518px;
+  height: 233px;
+  position: static;
+}
+._01-productly__the-design-thinking {
+  color: #2f281e;
+  text-align: left;
+  font: 700 44px/54px "Poppins";
+  position: absolute;
+  left: 145px;
+  top: 211px;
+  width: 518px;
+}
+._01-productly__tools--tutorials--de {
+  color: #544837;
+  text-align: left;
+  font: 400 18px/28px "Poppins";
+  position: absolute;
+  left: 145px;
+  top: 349px;
+  width: 458px;
+  height: 95px;
+}
+._01-productly___01-navigation {
+  width: 1400px;
+  height: 78px;
+  position: absolute;
+  left: 0px;
+  top: 20px;
+  overflow: hidden;
+}
+._01-productly__rectangle23 {
+  background: #ffffff;
+  width: 1400px;
+  height: 78px;
+  position: absolute;
+  left: 0px;
+  top: 78px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+._01-productly__button6 {
+  width: 102px;
+  height: 46px;
+  position: absolute;
+  left: 1029px;
+  top: 15px;
+  overflow: hidden;
+}
+._01-productly__bg {
+  border-radius: 4px;
+  border: solid #bcd0e5;
+  border-width: 1px;
+  width: 102px;
+  height: 46px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+._01-productly__sign-in {
+  color: #173a56;
+  text-align: left;
+  font: 600 16px "Poppins";
+  position: absolute;
+  left: 25.25px;
+  top: calc(50% - 12px);
+  width: 54.53px;
+}
+._01-productly__button7 {
+  width: 110px;
+  height: 46px;
+  position: absolute;
+  left: 1145px;
+  top: 15px;
+  overflow: hidden;
+}
+._01-productly__bg2 {
+  background: #ff9900;
+  border-radius: 4px;
+  width: 110px;
+  height: 46px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+._01-productly__sign-up {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px "Poppins";
+  position: absolute;
+  left: 25px;
+  top: calc(50% - 12px);
+}
+._01-productly__product-customers-pr {
+  color: #2f281e;
+  text-align: left;
+  font: 400 14px/28px "Poppins";
+  position: absolute;
+  left: 650px;
+  top: calc(50% - 15px);
+  width: 350px;
+}
+._01-productly__logo2 {
+  width: 185.34px;
+  height: 31.97px;
+  position: static;
+}
+._01-productly__productly2 {
+  position: absolute;
+  left: 186.15px;
+  top: 25px;
+  overflow: visible;
+}
+._01-productly__group-312 {
+  width: 30.16px;
+  height: 30px;
+  position: static;
+}
+._01-productly__rectangle24 {
+  background: #d8d8d8;
+  border-radius: 7px;
+  width: 30.16px;
+  height: 30px;
+  position: absolute;
+  left: 143.92px;
+  top: 22px;
+}
+._01-productly__bitmap2 {
+  width: 31.17px;
+  height: 32px;
+  position: absolute;
+  left: 143.92px;
+  top: 22px;
+}
